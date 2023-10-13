@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "productId": "24029086",
+      "title": "Sling Bags",
+      "brand": "Dorothy Perkins",
+      "price": "190/-",
+      "description": "Womanaire",
+      "thumbnail": "https://www.jiomart.com/images/product/original/rvixvnxk0j/fargo-grey-white-pu-sling-bag-for-women-product-images-rvixvnxk0j-0-202304211354.jpg?im=Resize=(600,750)",
+      "id": 1
+    },
+    {
+      "productId": "29344075",
+      "title": "Sneakers",
+      "brand": "layasa",
+      "price": "299/-",
+      "description": "Comfortable",
+      "thumbnail": "https://m.media-amazon.com/images/I/618qUPvPoqL._UY625_.jpg",
+      "id": 2
+    }
+  ]
+}
