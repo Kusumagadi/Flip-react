@@ -13,7 +13,7 @@ function App() {
   return (
    <>
    <div className='container-fluid'>
-        <div className='row'>
+        <div className='row sample'>
                 <Searchbar/>
                 <Menu/>
                 <Banner/>
